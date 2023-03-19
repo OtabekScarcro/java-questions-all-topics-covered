@@ -1,0 +1,37 @@
+===============
+Java History
+===============
+
+1) Jan-23rd in 1996
+2) Object-oriented, Platform independent, Secure.....
+3) Open Source Software
+4) JAVA SE6[Dec,11,2006]
+5) JAVA SE8[Mar,18,2014]
+6) Java is Dynamic programming language
+7) Because java allows memory allocation for primitive data types at
+   runtime
+8) No, java doesn't have any pointer
+9) Pointer variables are able to refer a block of memory by storing 
+   its address locations.
+   Reference variables are able to refer a block of memory by storing object
+   reference values
+10) Encapsulation, Abstraction, Inheritence, Polymorphism
+11) Code reusability - we can write one method and use multiple times
+12) If we declare same variable with different values and same method with different
+    implementatiuon in both the super classes and if we access that common variable and
+    method at sub class then which super class variable and method will be accessed is big
+    confusion
+13) Garbage Collector
+14) If we declare any operator with more than one functionality then it is called as
+    Operator Overloading
+15) UNICODE
+16) Internationalization is a service in Java, it enables Java applications to take input 
+    data in a particulr local language and to provide output data in the same local language
+17) Because, Java allows its
+    applications to compile on one operating system and to execute on another operating
+    system.
+18) If we design any java application on the basis of client-server arch then that java
+    application is called as Distributed application.
+19) All class names , abstract class names, interface names and enum names must be started
+    with upper case letter and the sub sequent symbols must also be upper case letters.
+20) No, because in java package statement must be first statement!

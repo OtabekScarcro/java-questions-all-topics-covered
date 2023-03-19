@@ -1,0 +1,27 @@
+===============
+Java History
+===============
+
+1) When the first version of JDK was introduced?
+2) What kind of Strong features java has?
+3) What is the type of software?
+4) Which java version was called as Mustang?
+5) From which java version we can use Lambda expression?
+6) Java is Dynamic programming language or Static?
+7) Why java is Dinamic programming language?
+8) Does java allows pointers?
+9) What is the difference between Pointer variable 
+   and reference variable?
+10) Can you tell names of 4 most powerful features in java?
+11) What is the main purpose of using Inheritence?
+12) Why Multiple inheritence is not possible in java?
+13) What component will help us to destroy objects in java?
+14) What is operator overloading?
+15) What helps to represent all characters in java?(like - 
+    c and c++ use ASCII values to represent all characters)
+16) What is Internationlization in Java?
+17) Why java is Platform Independent programming language?
+18) What is Distributed application?
+19) What kind of conventions are provided by java to use 
+    lower case letters and upper case letters seperatly?
+20) Can we write more than 2 package name in a single java file?
